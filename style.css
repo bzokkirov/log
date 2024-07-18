@@ -1,0 +1,10 @@
+.foo{
+    transition: all 2s ease;
+}
+.foo:hover{
+    color: blueviolet;
+    transition: all 2s ease;
+}
+.cus{
+    background-color: #eef4fa;
+}
